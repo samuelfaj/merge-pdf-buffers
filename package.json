@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/nyel-gh/merge-pdf-buffers#readme",
   "dependencies": {
-    "hummus": "^1.0.108",
+    "hummus": "^1.0.110",
     "memory-streams": "^0.1.3"
   }
 }
